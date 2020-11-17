@@ -1,0 +1,19 @@
+.btn-purple{
+    color:  white;
+    background-color:  #6f42c1;
+}
+
+.btn-purple:hover{
+    color:  white;
+    background-color:  #5d2fb3;
+}
+
+.btn-lightblue{
+    color:  white;
+    background-color: #2f9fb3;
+}
+
+.btn-lightblue:hover{
+    color:  white;
+    background-color:  #156472;
+}
